@@ -1,0 +1,2 @@
+# HugoTest
+Hugo AI Testing
